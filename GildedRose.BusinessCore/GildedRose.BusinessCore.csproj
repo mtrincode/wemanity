@@ -43,6 +43,12 @@
   <ItemGroup>
     <Compile Include="GildedRose.cs" />
     <Compile Include="Item.cs" />
+    <Compile Include="ItemsQuality\AgedBrie.cs" />
+    <Compile Include="ItemsQuality\BackstagePass.cs" />
+    <Compile Include="ItemsQuality\IQualityStrategy.cs" />
+    <Compile Include="ItemsQuality\StandardItem.cs" />
+    <Compile Include="ItemsQuality\StrategyBase.cs" />
+    <Compile Include="ItemsQuality\Sulfuras.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
