@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using BusinessCore;
 
-namespace csharp
+namespace ClientApp
 {
     public class Program
     {

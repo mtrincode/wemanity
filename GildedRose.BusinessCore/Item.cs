@@ -1,4 +1,4 @@
-﻿namespace csharp
+﻿namespace BusinessCore
 {
     public class Item
     {
